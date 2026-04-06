@@ -4,3 +4,5 @@
 
 ### Visit me on my social platform on Mastodon:
 [AasenGaare on Mastodon](https://social.vivaldi.net/@AasenGaare "Mastodon")
+
+![an ai modified image of the creator of this site](https://social-cdn.vivaldi.net/system/accounts/avatars/115/982/246/762/080/335/original/f2653d14071473e2.jpg)
