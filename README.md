@@ -3,4 +3,4 @@
 > I am checking out the Fediverse, SmallWeb and absence og Big Tech.
 
 ### Visit me on my social platform on Mastodon:
-[AasenGaare](https://social.vivaldi.net/@AasenGaare)
+[AasenGaare](https://social.vivaldi.net/@AasenGaare "Mastodon")
