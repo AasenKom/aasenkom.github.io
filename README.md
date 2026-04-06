@@ -1,6 +1,6 @@
 # *AasenGaare* og Aasen kommunikasjon
 ## *A place where I scale down my online presence!*
-> I am checking out the Fediverse, SmallWeb and absence of Big Tech.
+<p> I am checking out the Fediverse, SmallWeb and absence of Big Tech.</p>
 
 ### Visit me on my social platform on Mastodon:
 [AasenGaare on Mastodon](https://social.vivaldi.net/@AasenGaare "Mastodon")
