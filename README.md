@@ -1,5 +1,5 @@
 # AasenGaare og Aasen kommunikasjon
-## A place where I scale down the online presence!*
+## A place where I scale down my online presence!*
 > I am checking out the Fediverse, SmallWeb and absence og Big Tech.
 
 ### Visit me on my social platform on Mastodon:
