@@ -1,4 +1,4 @@
-# aasenkom.github.io
+# AasenGaare og Aasen kommunikasjon
 ## A place where I scale down the online presence!*
 > I am checking out the Fediverse, SmallWeb and absence og Big Tech.
 
