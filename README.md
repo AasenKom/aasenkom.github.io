@@ -1,6 +1,9 @@
 # *AasenGaare* og Aasen kommunikasjon
 ## *A place where I scale down my online presence!*
 I am checking out the Fediverse, SmallWeb and absence of Big Tech.
+I don't like how the internet and the web is evolving. 
+I grew up in the early days of the World Wide Web.
+The Free and Open world where I could roam and look for knowledge.
 
 ### Visit me on my social platform on Mastodon:
 [AasenGaare on Mastodon](https://social.vivaldi.net/@AasenGaare "Mastodon")
