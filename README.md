@@ -1,5 +1,5 @@
 # *AasenGaare* and Aasen kommunikasjon  
-## *A place where I scale down my online presence*
+## *This is a place where I scale down my online presence*
 
 I'm exploring the Fediverse, the Small Web, and a life without and beyond Big Tech.
 
