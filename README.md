@@ -8,8 +8,6 @@ I don’t like how the internet and the web are evolving.
 I grew up in the early days of the World Wide Web,  
 a free and open space where I could roam and search for knowledge.
 
-[Thinking and Writings (Go Furhter by pressing the link)]
-
 ---
 
 ### 🌍 Find me elsewhere:
