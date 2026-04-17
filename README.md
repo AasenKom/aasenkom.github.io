@@ -10,6 +10,11 @@ a free and open space where I could roam and search for knowledge.
 
 ---
 
+## News from around the Fediverse
+### *Updates in the future*
+
+---
+
 ### 🌍 Find me elsewhere:
 
 - [AasenGaare on Mastodon](https://social.vivaldi.net/@AasenGaare "Mastodon")
